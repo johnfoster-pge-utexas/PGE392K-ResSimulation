@@ -14,7 +14,7 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** GLT 1.102  
+**Class Location:** CPE 3.144
 **Class Time:** T-Th 12:30 PM - 2:00 PM  
 **Office Hours:** W 10:00 AM - 11:00 PM Virtual [Zoom
 Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment ([scheduling link](https://johnfoster.pge.utexas.edu/calendar/))  
@@ -22,7 +22,6 @@ Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by ap
 
 **Course Website:** [https://utexas.instructure.com/courses/1340356](https://utexas.instructure.com/courses/1340356)  
 
-**Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">spindletop.pge.utexas.edu</a>  
 
 **Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering.  
 
@@ -31,11 +30,10 @@ Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by ap
 
 **Book:** Most of the reservoir simulation textbooks are out-dated and/or are geared towards graduate students. There are several books that would make a good reference which are included below.  
 
-Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may be downloaded from Canvas and used as a reference.  
 
 **Suggested References:**
 
-1. Chen, Z. *Reservoir Simulation: Mathematical Techniques in Oil Recovery.* Society of Industrial and Applied Mathematics, Philadelphia, PA 2007.
+1. Balhoff, M. An Introduction to Multiphase, Multicomponent Reservoir Simulation, Esevier, 2023.
 
 1. Kassem, J.H., Ali, S., Islam, M., *Petroleum Reservoir Simulation: A Basic Approach*, Gulf Publishing Company, Houston, TX, 2006.
 
