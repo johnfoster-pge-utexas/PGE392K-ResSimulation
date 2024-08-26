@@ -20,7 +20,7 @@
 Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment ([scheduling link](https://johnfoster.pge.utexas.edu/calendar/))  
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1340356](https://utexas.instructure.com/courses/1340356)  
+**Course Website:** [https://utexas.instructure.com/courses/1395281](https://utexas.instructure.com/courses/1395281)  
 
 
 **Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering.  
