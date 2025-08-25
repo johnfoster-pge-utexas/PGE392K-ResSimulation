@@ -6,7 +6,7 @@
 .. description: PGE 392K - Reservoir Simulation syllabus page
 -->
 
-## PGE 323M - Reservoir Engineering III  
+## PGE 392K - Reservoir Simulation  
 
 
 **Instructor:** John T. Foster, Ph.D.  
