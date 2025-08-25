@@ -3,7 +3,7 @@
 .. slug: index
 .. date: 2020-08-26 10:00:00 UTC-05:00
 .. template: notitle.tmpl
-.. description: PGE 323M - Reservoir Engineering III syllabus page
+.. description: PGE 392K - Reservoir Simulation syllabus page
 -->
 
 ## PGE 323M - Reservoir Engineering III  
