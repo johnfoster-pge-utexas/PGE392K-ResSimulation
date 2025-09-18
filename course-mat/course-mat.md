@@ -63,27 +63,27 @@ and any other reference material.
 
 <a href="//youtu.be/yX4HEMw-lPM" target="blank_">Lecture 9 - Boundary Conditions</a> ([PDF](/notes/BoundaryConditions.pdf))
 
-<!-- <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKTgRbpGaOELaj98f-LORfd" target="blank_">Lecture 14 Playlist</a> -->
-<!--   -->
-<!--   * <a href="//youtu.be/OkllssJtMyc" target="blank_">Transmissibility Form of the Discrete Equations</a> ([PDF](/notes/TransmissibilityForm.pdf)) -->
-<!---->
-<!--   * <a href="//youtu.be/7VKQHQulaTY" target="blank_">Formation Volume Factor</a> ([PDF](/notes/FormationVolumeFactor.pdf)) -->
-<!---->
-<!--   * <a href="//youtu.be/AEmrR6D-le8" target="blank_">Mixed Time Integration Methods</a> ([PDF](/notes/MixedMethods.pdf)) -->
-<!---->
-<!-- <a href="//youtu.be/dglLoLJbROA" target="blank_">Lecture 15 - Finite Volume Discretization in 1D</a> ([PDF](/notes/FiniteVolume1D.pdf)) -->
-<!---->
-<!-- <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbLrx0my5my11XODkYpgP-iO" target="blank_">Lecture 16 Playlist</a> -->
-<!--   -->
-<!--   * <a href="//youtu.be/iUcrfolnIYc" target="blank_">Finite Volume in 1D for Heterogeneous Reservoirs</a> ([PDF](/notes/FiniteVolume1DHetero.pdf)) -->
-<!---->
-<!--   * <a href="//youtu.be/ZHOlK9q2PYI" target="blank_">Interblock Reservoir Properties</a> ([PDF](/notes/InterblockProperties.pdf)) -->
-<!---->
-<!--   * <a href="//youtu.be/XexrRtDcMaI" target="blank_">Boundary Conditions for Heterogeneous Reservoirs</a> ([PDF](/notes/BoundaryConditionsHetero.pdf)) -->
-<!---->
-<!---->
-<!-- <a href="//youtu.be/jt5euIPuB6Y" target="blank_">Lecture 17 - 1D Single Phase Flow Example in CMG</a>  -->
-<!---->
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKTgRbpGaOELaj98f-LORfd" target="blank_">Lecture 14 Playlist</a>
+ 
+  * <a href="//youtu.be/OkllssJtMyc" target="blank_">Transmissibility Form of the Discrete Equations</a> ([PDF](/notes/TransmissibilityForm.pdf))
+
+  * <a href="//youtu.be/7VKQHQulaTY" target="blank_">Formation Volume Factor</a> ([PDF](/notes/FormationVolumeFactor.pdf))
+
+  * <a href="//youtu.be/AEmrR6D-le8" target="blank_">Mixed Time Integration Methods</a> ([PDF](/notes/MixedMethods.pdf))
+
+<a href="//youtu.be/dglLoLJbROA" target="blank_">Lecture 15 - Finite Volume Discretization in 1D</a> ([PDF](/notes/FiniteVolume1D.pdf))
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbLrx0my5my11XODkYpgP-iO" target="blank_">Lecture 16 Playlist</a>
+ 
+  * <a href="//youtu.be/iUcrfolnIYc" target="blank_">Finite Volume in 1D for Heterogeneous Reservoirs</a> ([PDF](/notes/FiniteVolume1DHetero.pdf))
+
+  * <a href="//youtu.be/ZHOlK9q2PYI" target="blank_">Interblock Reservoir Properties</a> ([PDF](/notes/InterblockProperties.pdf))
+
+  * <a href="//youtu.be/XexrRtDcMaI" target="blank_">Boundary Conditions for Heterogeneous Reservoirs</a> ([PDF](/notes/BoundaryConditionsHetero.pdf))
+
+
+<a href="//youtu.be/jt5euIPuB6Y" target="blank_">Lecture 17 - 1D Single Phase Flow Example in CMG</a> 
+
 <!-- <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI4qD55I189y02asrHrgz6_" target="blank_">Lecture 18 Playlist</a> -->
 <!--   -->
 <!--   * <a href="//youtu.be/3Sw2T27nkGI" target="blank_">Introduction to Two-Dimensional Problems</a> ([PDF](/notes/IntroTo2D.pdf)) -->
