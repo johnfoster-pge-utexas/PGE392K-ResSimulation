@@ -98,39 +98,39 @@ and any other reference material.
 
 <a href="//youtu.be/4UGY74SJZ-o" target="blank_">Lecture 19 - Simple 2D Problem in CMG</a> 
 
-<!-- <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI4qD55I189y02asrHrgz6_" target="blank_">Lecture 20 Playlist</a> -->
-<!--   -->
-<!--   * <a href="//youtu.be/hDnorZ8RQmI" target="blank_">Peaceman correction</a> ([PDF](/notes/PeacemanCorrection.pdf)) -->
-<!---->
-<!--   * <a href="//youtu.be/CgZ2JW553uE" target="blank_">Modifications to the Discrete Equations for Wells</a> ([PDF](/notes/ModificationsForWells.pdf)) -->
-<!---->
-<!--   * <a href="//youtu.be/pF5GqlwpU0Y" target="blank_">Heterogeneities and horizontal wells</a> ([PDF](/notes/HorizontalWells.pdf)) -->
-<!---->
-<!-- <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJ-mpW683HoxQ4weVzvx4Xp" target="blank_">Lecture 21 Playlist</a> -->
-<!--   -->
-<!--   * <a href="//youtu.be/mH-WEpa9dtg" target="blank_">Multiphase flow: Water Balance</a> -->
-<!---->
-<!--   * <a href="//youtu.be/8IExw2pI9p8" target="blank_">Multiphase flow: Oil Balance</a> -->
-<!---->
-<!--   * <a href="//youtu.be/hgBmCY4gbug" target="blank_">Multiphase flow: Gas Balance</a> -->
-<!---->
-<!--   * <a href="//youtu.be/A_WjBngju6Q" target="blank_">Summary of Multiphase Flow Equations</a> -->
-<!---->
-<!--   * <a href="//youtu.be/2NLsnBjvK4U" target="blank_">Buckley-Leverett Theory</a> -->
-<!---->
-<!--    -->
-<!-- <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI5J0pgs7WdrBngQI1wKNAO" target="blank_">Lecture 22 Playlist</a> -->
-<!--   -->
-<!--   * <a href="//youtu.be/mTKY8B0G7to" target="blank_">IMPES - Pressure Equation</a> -->
-<!---->
-<!--   * <a href="//youtu.be/oybVNRzr158" target="blank_">IMPES - Saturation Equation</a> -->
-<!---->
-<!--   * <a href="//youtu.be/TpjCsSsrfkE" target="blank_">IMPES - Discrete Pressure Equation</a> -->
-<!---->
-<!--   * <a href="//youtu.be/yFxgJXcsDNc" target="blank_">IMPES - Discrete Saturation Equation</a> -->
-<!---->
-<!--   * <a href="//youtu.be/7PVVhzQRdlk" target="blank_">IMPES - Total Transmissibility</a> -->
-<!---->
-<!--   * <a href="//youtu.be/6NJOO8M5x-Y" target="blank_">Discussion on Upwinding</a> -->
-<!---->
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI4qD55I189y02asrHrgz6_" target="blank_">Lecture 20 Playlist</a>
+ 
+  * <a href="//youtu.be/hDnorZ8RQmI" target="blank_">Peaceman correction</a> ([PDF](/notes/PeacemanCorrection.pdf))
+
+  * <a href="//youtu.be/CgZ2JW553uE" target="blank_">Modifications to the Discrete Equations for Wells</a> ([PDF](/notes/ModificationsForWells.pdf))
+
+  * <a href="//youtu.be/pF5GqlwpU0Y" target="blank_">Heterogeneities and horizontal wells</a> ([PDF](/notes/HorizontalWells.pdf))
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJ-mpW683HoxQ4weVzvx4Xp" target="blank_">Lecture 21 Playlist</a>
+ 
+  * <a href="//youtu.be/mH-WEpa9dtg" target="blank_">Multiphase flow: Water Balance</a>
+
+  * <a href="//youtu.be/8IExw2pI9p8" target="blank_">Multiphase flow: Oil Balance</a>
+
+  * <a href="//youtu.be/hgBmCY4gbug" target="blank_">Multiphase flow: Gas Balance</a>
+
+  * <a href="//youtu.be/A_WjBngju6Q" target="blank_">Summary of Multiphase Flow Equations</a>
+
+  * <a href="//youtu.be/2NLsnBjvK4U" target="blank_">Buckley-Leverett Theory</a>
+
+  
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI5J0pgs7WdrBngQI1wKNAO" target="blank_">Lecture 22 Playlist</a>
+ 
+  * <a href="//youtu.be/mTKY8B0G7to" target="blank_">IMPES - Pressure Equation</a>
+
+  * <a href="//youtu.be/oybVNRzr158" target="blank_">IMPES - Saturation Equation</a>
+
+  * <a href="//youtu.be/TpjCsSsrfkE" target="blank_">IMPES - Discrete Pressure Equation</a>
+
+  * <a href="//youtu.be/yFxgJXcsDNc" target="blank_">IMPES - Discrete Saturation Equation</a>
+
+  * <a href="//youtu.be/7PVVhzQRdlk" target="blank_">IMPES - Total Transmissibility</a>
+
+  * <a href="//youtu.be/6NJOO8M5x-Y" target="blank_">Discussion on Upwinding</a>
+
 <!-- <a href="//youtu.be/MWnBgE7aMtU" target="blank_">Lecture 23 - Special Topics</a> -->
