@@ -133,4 +133,8 @@ and any other reference material.
 
   * <a href="//youtu.be/6NJOO8M5x-Y" target="blank_">Discussion on Upwinding</a>
 
+
+<a href="//youtu.be/PfX2WNaUMoE" target="blank_">Finite Volume Discretization of the Pressure Pressure Diffusivity Equation</a> ([PDF](/notes/11-06-2025.pdf))
+
+
 <!-- <a href="//youtu.be/MWnBgE7aMtU" target="blank_">Lecture 23 - Special Topics</a> -->
