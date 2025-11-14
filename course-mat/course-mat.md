@@ -136,5 +136,6 @@ and any other reference material.
 
 <a href="//youtu.be/PfX2WNaUMoE" target="blank_">Finite Volume Discretization of the Pressure Pressure Diffusivity Equation</a> ([PDF](/notes/11-06-2025.pdf))
 
+<a href="//youtu.be/vHK0S5KshKM" target="blank_">Finite Volume approximation with Heterogeneous permeability</a> ([PDF](/notes/11-13-2025.pdf))
 
 <!-- <a href="//youtu.be/MWnBgE7aMtU" target="blank_">Lecture 23 - Special Topics</a> -->
